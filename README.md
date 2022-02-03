@@ -1,1 +1,3 @@
-# papanikolaou_20220203
+# Alexia Papanikolaou
+
+Bonjour, je suis étudiante en TIM. J'entame ma troisième session de cégep. Donc, j'ai fait un an en tremplin avant de joindre la technique. 
