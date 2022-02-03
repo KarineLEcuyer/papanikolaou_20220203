@@ -6,4 +6,4 @@ Bonjour, je suis étudiante en TIM. J'entame ma troisième session de cégep. Do
 
 ![photomoi](medias/lemoi.jpg)
 
-![photochien]
+![photochien](medias/winstonchien.jpg)
