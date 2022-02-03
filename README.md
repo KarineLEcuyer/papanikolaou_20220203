@@ -4,4 +4,4 @@ Bonjour, je suis étudiante en TIM. J'entame ma troisième session de cégep. Do
 *(Exemple photo ci-dessous)*
 
 
-![photo](papanikolaou_20220203/medias/lemoi.jpg)
+![photo](medias/lemoi.jpg)
